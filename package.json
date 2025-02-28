@@ -1,0 +1,27 @@
+{
+  "name": "sales_analytics_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dubey0205/Sales_analytics_App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dubey0205/Sales_analytics_App/issues"
+  },
+  "homepage": "https://github.com/dubey0205/Sales_analytics_App#readme",
+  "dependencies": {
+    "apollo-server": "^3.6.7",
+    "graphql": "^15.6.0",
+    "mongoose": "^6.0.14",
+    "uuid": "^8.3.2"
+  }
+}
